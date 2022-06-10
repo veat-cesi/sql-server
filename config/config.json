@@ -1,0 +1,16 @@
+{
+  "development": {
+    "username": "sa",
+    "password": "Pass@word",
+    "database": "VEAT_DEV",
+    "host": "localhost",
+    "dialect": "mssql"
+  },
+  "prod": {
+    "username": "sa",
+    "password": "Pass@word",
+    "database": "VEAT",
+    "host": "localhost",
+    "dialect": "mssql"
+  }
+}
