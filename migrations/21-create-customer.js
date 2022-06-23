@@ -44,7 +44,7 @@ module.exports = {
         },
       },
       {
-        schema: "client",
+        schema: "customer",
       }
     );
   },

@@ -1,9 +1,9 @@
 "use strict";
 module.exports = {
   async up(queryInterface, Sequelize) {
-    await queryInterface.createSchema("delivry");
+    await queryInterface.createSchema("customer");
   },
   async down(queryInterface, Sequelize) {
-    await queryInterface.dropSchema("delivry");
+    await queryInterface.dropSchema("customer");
   },
 };

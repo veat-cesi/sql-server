@@ -44,7 +44,7 @@ module.exports = {
         },
       },
       {
-        schema: "delivry",
+        schema: "delivery",
       }
     );
   },
