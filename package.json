@@ -2,6 +2,7 @@
   "dependencies": {
     "bcrypt": "^5.0.1",
     "sequelize": "^6.21.0",
+    "sequelize-cli": "^6.4.1",
     "tedious": "^14.5.0"
   }
 }
